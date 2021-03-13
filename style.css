@@ -1,0 +1,14 @@
+.div1 {
+    border: 1px  solid black;
+background-image: radial-gradient( red 10, yellow, blue);
+    font-size: 50px;
+}
+
+.div2 {
+    margin-top: 100px;
+    height: 200px;
+    border: 1px solid black;
+}
+.header {
+    text-align: center;
+    
